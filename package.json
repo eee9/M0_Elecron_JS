@@ -1,0 +1,11 @@
+{
+  "name": "m0_elec_js_k69",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron --no-sandbox ."
+  },
+  "devDependencies": {
+    "electron": "^9.0.3"
+  }
+}
